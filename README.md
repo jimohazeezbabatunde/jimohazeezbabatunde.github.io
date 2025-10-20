@@ -1,4 +1,3 @@
-https://avatars.githubusercontent.com/u/238199899?v=4
 Hi, I'm Jimoh Azeez Babatunde
 
 Economist | 📊 Data Analyst | Power BI & Excel Enthusiast
