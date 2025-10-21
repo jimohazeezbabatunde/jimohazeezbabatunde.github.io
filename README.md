@@ -1,51 +1,53 @@
-Hi, I'm Jimoh Azeez Babatunde
+# 👋 Hi, I'm Jimoh Azeez Babatunde
 
-Economist | 📊 Data Analyst | Power BI & Excel Enthusiast
-Welcome to my data portfolio — where I transform raw data into meaningful insights that drive economic and business decisions.
+🎓 **Economist | Data Analyst | Power BI Enthusiast**  
+📊 I transform raw data into actionable insights that drive business growth and decision-making.
 
-About Me
-I’m an Economics graduate and Data Analyst with a strong interest in data-driven decision making.
-My experience spans across data collection, analysis, and visualization, using tools like Power BI, Excel, and DAX to uncover patterns and trends that support strategic goals.
+---
 
-Currently, I serve as an Administrative Officer, where I analyze voter registration data for the upcoming 2027 General Election, contributing to policy and planning through accurate data insights.
+## 🔍 About Me
+I’m passionate about using data to uncover trends and guide strategies.  
+Currently, I serve as an **Administrative Officer** where I manage data collection and analysis for voter registration exercises in preparation for the 2027 general elections.  
+I also work remotely on various **data analysis projects** using Excel, Power BI, and SQL.
 
-Skills & Tools
-Data Visualization: Power BI, Excel
-Data Modelling & Analysis: DAX, Pivot Tables, Descriptive Statistics
-Database Management: SQL (basic querying)
-Programming: Python (beginner level)
-Economic Analysis: Forecasting, Time Series, Policy Evaluation
-Other Tools: Google Sheets, Power Query
+---
 
-Featured Projects
-Voter Registration Data Analysis (2027 General Election)
-Analyzed and visualized voter registration data to identify demographic trends and participation levels across regions.
-Tools: Excel, Power BI
-Key Insight: Identified key age groups and regions with low registration rates for targeted awareness campaigns.
-🔗 View Dashboard
- (Add your Power BI or image link here)
+## 🧰 Skills & Tools
+- **Data Visualization:** Power BI, Excel, Tableau  
+- **Data Analysis:** SQL, Python (Pandas, NumPy)  
+- **Data Cleaning & Modeling**  
+- **Econometrics & Statistical Analysis**
 
-Sales Performance Dashboard
-Developed an interactive Power BI dashboard to monitor sales trends, profit margins, and customer behavior.
-Tools: Power BI, DAX, Excel
-Outcome: Helped management identify underperforming products and improve revenue forecasting.
-🔗 View Dashboard
+---
 
-Economic Trends Report
-Conducted macroeconomic data analysis focusing on GDP growth, inflation, and employment using Excel.
-Tools: Excel, Power BI
-Outcome: Provided visual insights into Nigeria’s economic trends for academic research and reporting.
-🔗 Read Report
+## 📂 Featured Projects
 
-Soft Skills
-Critical Thinking & Analytical Reasoning
-Communication & Data Storytelling
-Team Collaboration
-Problem Solving
+### 🧾 [HR Analytics Dashboard](https://github.com/YourUsername/HR-Analytics)
+- Analyzed employee attrition and performance using Power BI.
+- Identified key retention factors and optimized HR strategy.
 
-Contact Me
- Email: jimohazeezbabatunde1991@gmail.com
- LinkedIn: linkedin.com/in/azeezbabatunde
- GitHub: github.com/jimohazeezbabatunde
+### 💹 [Sales Performance Analysis](https://github.com/YourUsername/Sales-Performance)
+- Built an interactive Power BI dashboard to track revenue, profit, and product trends.
+- Improved sales forecast accuracy by 20%.
 
-“Data has a better idea, let’s listen to what it says.”
+### 🗳️ [Voter Registration Data Insights](https://github.com/YourUsername/Voter-Data-Analysis)
+- Cleaned and analyzed voter registration data using Excel and Power Query.
+- Presented demographic insights for policy planning.
+
+---
+
+## 🧩 Education
+🎓 **B.Sc. in Economics**  
+(University Name) — Year of Graduation
+
+---
+
+## 🌐 Connect with Me
+📧 **Email:** yourname@email.com  
+💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+🐦 [Twitter](https://twitter.com/your-handle)  
+📸 [Instagram](https://instagram.com/your-handle)
+
+---
+
+⭐ *“Data is the new oil, but insight is the refinery.”*
