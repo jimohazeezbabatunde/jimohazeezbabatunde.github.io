@@ -3,6 +3,10 @@
 🎓 **Economist | Data Analyst | Power BI Enthusiast**  
 📊 I transform raw data into actionable insights that drive business growth and decision-making.  
 
+<p align="center">
+  <img src="myphoto.jpg" alt="Jimoh Azeez Babatunde" width="160" style="border-radius:50%">
+</p>
+
 ---
 
 ## 🧠 About Me  
