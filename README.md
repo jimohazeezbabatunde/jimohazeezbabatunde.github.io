@@ -1,53 +1,70 @@
-# 👋 Hi, I'm Jimoh Azeez Babatunde
+# 👋 Hi, I'm Jimoh Azeez Babatunde  
 
 🎓 **Economist | Data Analyst | Power BI Enthusiast**  
-📊 I transform raw data into actionable insights that drive business growth and decision-making.
+📊 I transform raw data into actionable insights that drive business growth and decision-making.  
 
 ---
 
-## 🔍 About Me
-I’m passionate about using data to uncover trends and guide strategies.  
-Currently, I serve as an **Administrative Officer** where I manage data collection and analysis for voter registration exercises in preparation for the 2027 general elections.  
-I also work remotely on various **data analysis projects** using Excel, Power BI, and SQL.
+## 🧠 About Me  
+
+I’m passionate about transforming raw numbers into meaningful insights that drive informed decisions.  
+With a strong background in **Economics** and **Data Analytics**, I specialize in collecting, cleaning, and interpreting data to uncover patterns and support strategic planning.  
+
+Known as **“Babs the Data Magician,”** I blend analytical precision with creative problem-solving — turning complex datasets into clear, actionable economic insights.  
+My work spans **data visualization, business intelligence, and statistical analysis**, helping organizations make smarter, evidence-based decisions.  
 
 ---
 
-## 🧰 Skills & Tools
-- **Data Visualization:** Power BI, Excel, Tableau  
-- **Data Analysis:** SQL, Python (Pandas, NumPy)  
-- **Data Cleaning & Modeling**  
-- **Econometrics & Statistical Analysis**
+## 🧰 Skills, Tools & Interests  
+
+### 🛠️ Skills  
+- Problem Solving  
+- Requirement Gathering  
+- Communication  
+- Self-Learning  
+- Data Entry  
+- Emotional Intelligence  
+
+### 💻 Tools  
+- **Excel**, **Google Sheets**, **Power BI**, **SQL**, **Tableau**  
+- **Python** (NumPy, Pandas, Matplotlib, Seaborn)  
+- **Power Query**, **MS Word**, **MS PowerPoint**  
+
+### 📈 Interests  
+- Data Analysis  
+- Financial & Business Analysis  
+- Econometrics & Statistical Analysis  
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project  
 
-### 🧾 [HR Analytics Dashboard](https://github.com/YourUsername/HR-Analytics)
-- Analyzed employee attrition and performance using Power BI.
-- Identified key retention factors and optimized HR strategy.
+### 🧾 **Layoff Analysis Project**  
+**Tools Used:** SQL  
+🔍 **Overview:**  
+This project demonstrates the importance of **data cleaning** as a critical first step before analysis.  
+After cleaning the layoff dataset, the insights revealed global patterns and industry trends, empowering stakeholders to make better-informed workforce decisions.  
 
-### 💹 [Sales Performance Analysis](https://github.com/YourUsername/Sales-Performance)
-- Built an interactive Power BI dashboard to track revenue, profit, and product trends.
-- Improved sales forecast accuracy by 20%.
-
-### 🗳️ [Voter Registration Data Insights](https://github.com/YourUsername/Voter-Data-Analysis)
-- Cleaned and analyzed voter registration data using Excel and Power Query.
-- Presented demographic insights for policy planning.
+🚀 **Outcome:**  
+Applying this approach enables organizations to respond to workforce changes with greater foresight and resilience.  
 
 ---
 
-## 🧩 Education
+## 🎓 Education  
+
 🎓 **B.Sc. in Economics**  
-(University Name) — Year of Graduation
+🏛️ *University of Ibadan*  
+📅 Graduated: 2022  
 
 ---
 
-## 🌐 Connect with Me
-📧 **Email:** yourname@email.com  
-💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-🐦 [Twitter](https://twitter.com/your-handle)  
-📸 [Instagram](https://instagram.com/your-handle)
+## 🌐 Connect With Me  
+
+📧 **Email:** [jimohazeezbabatunde1991@gmail.com](mailto:jimohazeezbabatunde1991@gmail.com)  
+💼 **LinkedIn:** [View Profile](https://www.linkedin.com/posts/daniel-nte-daniel_datafam-powerautomate-dataviz-activity-7356252378657914882-M2ea?utm_source=social_share_video_v2&utm_medium=android_app&rcm=ACoAAFtOzI4BW856iCpsAqNahaO08DK1R8-jCnQ&utm_campaign=whatsapp)  
+🐦 **Twitter (X):** [@itz_babatunde](https://x.com/itz_babatunde?t=PHznf6Ou4lYdu9tjjWdvZA&s=08)  
 
 ---
 
-⭐ *“Data is the new oil, but insight is the refinery.”*
+⭐ *“Data is the new oil, but insight is the refinery.”*  
+
