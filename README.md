@@ -1,9 +1,8 @@
-# 👋 Hi, I'm Jimoh Azeez Babatunde  
 <p align="center">
   <img src="babs.jpg" alt="Jimoh Azeez Babatunde" width="160" style="border-radius:50%">
 </p>
 
-
+# 👋 Hi, I'm Jimoh Azeez Babatunde 
 🎓 **Economist | Data Analyst | Power BI Enthusiast**  
 📊 I transform raw data into actionable insights that drive business growth and decision-making.  
 
@@ -12,10 +11,7 @@
 ## 🧠 About Me  
 
 I’m passionate about transforming raw numbers into meaningful insights that drive informed decisions.  
-With a strong background in **Economics** and **Data Analytics**, I specialize in collecting, cleaning, and interpreting data to uncover patterns and support strategic planning.  
-
-Known as **“Babs the Data Magician,”** I blend analytical precision with creative problem-solving — turning complex datasets into clear, actionable economic insights.  
-My work spans **data visualization, business intelligence, and statistical analysis**, helping organizations make smarter, evidence-based decisions.  
+With a strong background in **Economics** and **Data Analytics**, I specialize in collecting, cleaning, and interpreting data to uncover patterns and support strategic planning. Known as **“Babs the Data Magician,”** I blend analytical precision with creative problem-solving — turning complex datasets into clear, actionable economic insights. My work spans **data visualization, business intelligence, and statistical analysis**, helping organizations make smarter, evidence-based decisions.  
 
 ---
 
