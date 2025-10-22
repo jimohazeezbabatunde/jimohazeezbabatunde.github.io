@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Jimoh Azeez Babatunde  
+<p align="center">
+  <img src="babs.jpg" alt="Jimoh Azeez Babatunde" width="160" style="border-radius:50%">
+</p>
+
 
 🎓 **Economist | Data Analyst | Power BI Enthusiast**  
 📊 I transform raw data into actionable insights that drive business growth and decision-making.  
